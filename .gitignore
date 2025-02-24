@@ -1,0 +1,12 @@
+# Ignorar credenciales sensibles
+.env
+
+# Ignorar dependencias instaladas
+node_modules
+
+# Ignorar archivos generados por npm
+package-lock.json
+
+# Archivos del sistema (opcional)
+.DS_Store
+Thumbs.db
